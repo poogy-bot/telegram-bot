@@ -5,7 +5,7 @@ import time
 # توکن API ربات شما
 TOKEN = '7323769984:AAHqFqlljpTHVbt_CFHP5v2NYhGK54WDB7w'
 PUBLIC_CHANNEL_USERNAME = '@future_surprise'
-PRIVATE_CHANNEL_ID = 'YOUR_PRIVATE_CHANNEL_ID'  # ID کانال خصوصی شما
+PRIVATE_CHANNEL_ID = '+eTDBOC8sIgQzZGZk'  # ID کانال خصوصی شما
 VIDEOS = {
     "video_link_1": "video_file_id_1",
     "video_link_2": "video_file_id_2",
